@@ -1,7 +1,8 @@
 # Portfolio Martijn Bennis
-HHS Minor Applied Data Science
+minor KB74 (Applied Data Science)
 
-In dit portfolio...
+In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de halfjaar durende minor Applied Data Science. In deze minor ben ik vooral bezig geweest met het analyseren en toepassen van 'Big data'. Hieronder is de structuur gegeven die zal leiden naar het subkopje waaronder alle opdrachten staan. Wanneer er op de links geklikt wordt zal deze u als lezer naar de desbetreffende pagina leiden.
+
 ## Structuur
 * 1\. [DataCamp](#DataCamp)
 * 2\. [Coursera](#Coursera)
