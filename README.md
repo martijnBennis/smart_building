@@ -5,10 +5,10 @@ In dit portfolio...
 ## Structuur
 * 1\. [DataCamp](#DataCamp)
 * 2\. [Coursera](#Coursera)
-* 3\. [Python notebooks](#Python notebooks)
+* 3\. [Python notebooks](#Python_notebooks)
 * 4\. [Spark](#Spark)
-* 5\. [Workshop opdrachten](#Workshop opdrachten)
-* 6\. [Uitgevoerde taken binnen het project](#Uitgevoerde taken binnen het project)
+* 5\. [Workshop opdrachten](#Workshop_opdrachten)
+* 6\. [Uitgevoerde taken binnen het project](#Uitgevoerde_taken_binnen_het_project)
 
 ---
 
@@ -27,7 +27,7 @@ In dit portfolio...
 
 ---
 
-## 3. Python notebooks <a name="Python notebooks"></a>
+## 3. Python notebooks <a name="Python_notebooks"></a>
 
 * 1\. Checking data edges
 * 2\. Identifying variables
@@ -47,9 +47,9 @@ In dit portfolio...
 
 ---
 
-## 5. Workshop opdrachten <a name="Workshop opdrachten"></a>
+## 5. Workshop opdrachten <a name="Workshop_opdrachten"></a>
 * 1. Calling bullshit
 
 ---
 
-## 6. Uitgevoerde taken binnen het project <a name="Uitgevoerde taken binnen het project"></a>
+## 6. Uitgevoerde taken binnen het project <a name="Uitgevoerde_taken_binnen_het_project"></a>
