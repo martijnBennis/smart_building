@@ -2,13 +2,13 @@
 HHS Minor Applied Data Science
 
 In dit portfolio...
-
-## 1. DataCamp
-## 2. Coursera
-## 3. Python notebooks
-## 4. Spark
-## 5. Workshop opdrachten
-## 6. Uitgevoerde taken binnen het project
+## Structuur
+* 1. DataCamp
+* 2. Coursera
+* 3. Python notebooks
+* 4. Spark
+* 5. Workshop opdrachten
+* 6. Uitgevoerde taken binnen het project
 
 
 ## 1. DataCamp
