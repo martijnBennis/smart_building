@@ -3,23 +3,23 @@ HHS Minor Applied Data Science
 
 In dit portfolio...
 ## Structuur
-* 1\. DataCamp
-* 2\. Coursera
-* 3\. Python notebooks
-* 4\. Spark
-* 5\. Workshop opdrachten
-* 6\. Uitgevoerde taken binnen het project
+* 1\. [DataCamp](#DataCamp)
+* 2\. [Coursera](#Coursera)
+* 3\. [Python notebooks](#Python notebooks)
+* 4\. [Spark](#Spark)
+* 5\. [Workshop opdrachten](#Workshop opdrachten)
+* 6\. [Uitgevoerde taken binnen het project](#Uitgevoerde taken binnen het project)
 
 ---
 
-## 1. DataCamp
+## 1. DataCamp <a name="DataCamp"></a>
 * Bewijs opdracht x
 * Bewijs opdracht x
 * Bewijs opdracht x
 
 ---
 
-## 2. Coursera
+## 2. Coursera <a name="Coursera"></a>
 * Week 1
 * Week 2
 * Week 3
@@ -27,7 +27,7 @@ In dit portfolio...
 
 ---
 
-## 3. Python notebooks
+## 3. Python notebooks <a name="Python notebooks"></a>
 
 * 1\. Checking data edges
 * 2\. Identifying variables
@@ -41,15 +41,15 @@ In dit portfolio...
 
 ---
 
-## 4. Spark
+## 4. Spark <a name="Spark"></a>
 * 1\. Assignment 1
 * 2\. Assignment 2
 
 ---
 
-## 5. Workshop opdrachten
+## 5. Workshop opdrachten <a name="Workshop opdrachten"></a>
 * 1. Calling bullshit
 
 ---
 
-## 6. Uitgevoerde taken binnen het project
+## 6. Uitgevoerde taken binnen het project <a name="Uitgevoerde taken binnen het project"></a>
