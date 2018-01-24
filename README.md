@@ -3,19 +3,21 @@ HHS Minor Applied Data Science
 
 In dit portfolio...
 ## Structuur
-* 1. DataCamp
-* 2. Coursera
-* 3. Python notebooks
-* 4. Spark
-* 5. Workshop opdrachten
-* 6. Uitgevoerde taken binnen het project
+* 1\. DataCamp
+* 2\. Coursera
+* 3\. Python notebooks
+* 4\. Spark
+* 5\. Workshop opdrachten
+* 6\. Uitgevoerde taken binnen het project
 
+---
 
 ## 1. DataCamp
 * Bewijs opdracht x
 * Bewijs opdracht x
 * Bewijs opdracht x
 
+---
 
 ## 2. Coursera
 * Week 1
@@ -23,6 +25,7 @@ In dit portfolio...
 * Week 3
 * Week 6
 
+---
 
 ## 3. Python notebooks
 
@@ -36,14 +39,17 @@ In dit portfolio...
 * 8. Creating Variables
 * 9. Evaluate
 
+---
 
 ## 4. Spark
 * 1. Assignment 1
 * 2. Assignment 2
 
+---
 
 ## 5. Workshop opdrachten
 * 1. Calling bullshit
 
+---
 
 ## 6. Uitgevoerde taken binnen het project
