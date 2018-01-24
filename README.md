@@ -1,4 +1,4 @@
-# portfolio Martijn Bennis
+# Portfolio Martijn Bennis
 HHS Minor Applied Data Science
 
 In dit portfolio...
