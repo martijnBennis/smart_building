@@ -55,7 +55,7 @@ In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
 
 ## 5. Workshop opdrachten <a name="Workshop_opdrachten"></a>
 In deze map zijn alle resultaten te vinden van de workshop opdrachten.
-* 1. Calling bullshit
+* Calling bullshit
 
 ---
 
