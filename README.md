@@ -14,16 +14,24 @@ In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de hal
 
 ## 1. DataCamp <a name="DataCamp"></a>
 In deze map zijn alle bewijzen te vinden van de online courses van DataCamp.
-* [Bewijs DataCamp Week 1](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%201/Intro%20to%20Python%20for%20Data%20Science.png)
+* [Bewijs DataCamp Week 1](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%201)
+    * [Intro to Python for Data Science](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%201/Intro%20to%20Python%20for%20Data%20Science.png)
 * [Bewijs DataCamp Week 2](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%202)
     * [Importing Data in Python part 1](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Importing%20Data%20in%20Python%20(Part%201).png)
     * [Intermediate Python for Data Science](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Intermediate%20Python%20for%20Data%20Science.png)
- * [Introduction to Data Visualization with Python](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Introduction%20to%20Data%20Visualization%20with%20Python.png)
-* [Bewijs DataCamp Week 3]()
-* [Bewijs DataCamp Week 4]()
-* [Bewijs DataCamp Week 5]()
-* [Bewijs DataCamp Week 6]()
-
+    * [Introduction to Data Visualization with Python](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Introduction%20to%20Data%20Visualization%20with%20Python.png)
+* [Bewijs DataCamp Week 3](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%203)
+    * [Introduction to Data Visualization with Python Week 1](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%203/Introduction%20to%20Data%20Visualization%20with%20Python%20Week%201.png)
+    * [Pandas Foundation](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%203/Pandas%20Foundation.png)
+* [Bewijs DataCamp Week 4](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%204)
+    * [Introduction to data visualization with Python](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%204/Introduction%20to%20data%20visualization%20with%20Python.png)
+    * [Python Data Science Toolbox (Part 2)](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%204/Python%20Data%20Science%20Toolbox%20(Part%202).png)
+* [Bewijs DataCamp Week 5](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%205)
+    * [Cleaning Data 1](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%205/Cleaning%20Data%201.png)
+    * [Cleaning Data 2](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%205/Cleaning%20Data%202.png)
+* [Bewijs DataCamp Week 6](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%206)
+    * [Statistical Thinking in Python (Part 1)](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%206/Statistical%20Thinking%20in%20Python%20(Part%201).png)
+    * [Supervised Learning with scikit-learn](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%206/Supervised%20Learning%20with%20scikit-learn.png)
 ---
 
 ## 2. Coursera <a name="Coursera"></a>
