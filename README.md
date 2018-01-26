@@ -50,9 +50,23 @@ In deze map zijn alle bewijzen te vinden van de Python notebooks die ik gemaakt 
 In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
 
 * 1\. Tutorials
-  * Week 1
-* 2\. Assignment 1
-* 3\. Assignment 2
+  * 1\. rdd-collection
+  * 2\. rdd-file
+  * 3\. Actions
+  * 4\. key-values
+  * 5\. set-operations
+  * 6\. join
+  * 7\. advanced-rdd
+  * 8\. statistics
+  * 9\. broadcast
+  * 10\. dataframes
+  * 11\. sql
+  * 12\. plot
+  * 13\. json
+  * 14\. csv2DtoList
+  * 15\. rdf
+* 2\. [Assignment 1]
+* 3\. [Assignment 2]
 
 
 ---
