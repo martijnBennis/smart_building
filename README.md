@@ -110,7 +110,6 @@ Uiteindelijk ben ik verder gegaan met het opzetten van een dashboard, zodat er o
 ---
 
 Ook heb ik tijdens dit project vaak genotuleerd voor de groep. Dit met als doel zodat wij gesprekken in een meeting met Mevrouw Itard, Meneer Schagen of andere projectleden niet zouden vergeten.
-Notulen:
 * [Gesprek Jan Dirk 31-08](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/08-31%20Gesprek%20Jan-Dirk.pdf)
 * [Gesprek Jan Dirk 01-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-01%20Gesprek%20Jan-Dirk.pdf)
 * [Notulen maandag 11-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-11%20Notulen%20maandag.pdf)
@@ -118,3 +117,8 @@ Notulen:
 * [Notulen Arie Taal 14-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-14%20Notulen%20Arie%20Taal.pdf)
 * [Notulen Laure Itard 04-10](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/10-04%20Notulen%20Laure%20Itard.pdf)
 * [Procesvoortgang met Jan Dirk 23-10](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/10-23%20Proces%20voortgang%20met%20JD.pdf)
+
+---
+
+Tot slot hebben wij met het gehele onderzoeksteam gezeten voor het [onderzoeksverslag]() en de [paper](). In deze documenten heb ik de conclusie, aanbeveling en de methoden en resultaten van Rule Based System gewerkt. 
+Daarnaast ben ik vooral bezig geweest met het nalezen en feedback geven op andere onderdelen van andere projectleden. Bij de paper heb ik naast het Rule Based gedeelte ook nog de abstract geschreven.  
