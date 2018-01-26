@@ -65,8 +65,8 @@ In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
   * 13\. json
   * 14\. csv2DtoList
   * 15\. rdf
-* 2\. [Assignment 1]
-* 3\. [Assignment 2]
+* 2\. [Assignment 1]()
+* 3\. [Assignment 2]()
 
 
 ---
