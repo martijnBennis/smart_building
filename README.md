@@ -120,5 +120,5 @@ Ook heb ik tijdens dit project vaak genotuleerd voor de groep. Dit met als doel 
 
 ---
 
-Tot slot hebben wij met het gehele onderzoeksteam gezeten voor het [onderzoeksverslag]() en de [paper](). In deze documenten heb ik de conclusie, aanbeveling en de methoden en resultaten van Rule Based System gewerkt. 
+Tot slot hebben wij met het gehele onderzoeksteam gezeten voor het [onderzoeksverslag](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Onderzoeksverslag/Onderzoeksverslag%20Smartbuilding%202.0.docx.pdf) en de [paper](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Paper/Paper%200.999999999.pdf). In deze documenten heb ik de conclusie, aanbeveling en de methoden en resultaten van Rule Based System gewerkt. 
 Daarnaast ben ik vooral bezig geweest met het nalezen en feedback geven op andere onderdelen van andere projectleden. Bij de paper heb ik naast het Rule Based gedeelte ook nog de abstract geschreven.  
