@@ -110,6 +110,7 @@ Uiteindelijk ben ik verder gegaan met het opzetten van een dashboard, zodat er o
 ---
 
 Ook heb ik tijdens dit project vaak genotuleerd voor de groep. Dit met als doel zodat wij gesprekken in een meeting met Mevrouw Itard, Meneer Schagen of andere projectleden niet zouden vergeten.
+Notulen:
 * [Gesprek Jan Dirk 31-08](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/08-31%20Gesprek%20Jan-Dirk.pdf)
 * [Gesprek Jan Dirk 01-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-01%20Gesprek%20Jan-Dirk.pdf)
 * [Notulen maandag 11-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-11%20Notulen%20maandag.pdf)
