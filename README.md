@@ -106,3 +106,14 @@ De projectgroep 'Smart Building' heeft [onderzoek]() gedaan naar het klimaatrege
 De anomalieën die wij hebben gevonden hebben wij in [dit bestand](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.pdf) gezet zodat er achterhaalt kon worden wanneer, hoelang een situatie gaande was en wat de oorzaak was. Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek]() is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
 
 Uiteindelijk ben ik verder gegaan met het opzetten van een dashboard, zodat er op een toegankelijkere manier naar het SAW expert programma gekeken kan worden. Het front-end deel hiervan is werkend gekregen en [hier]() is de map te vinden naar alle code. Helaas was het maken van een centrale API waar de drie systemen op zouden draaien een te grote opgave. Hierin hadden een ander projectlid en ik onzelf overschat en de opdracht onderschat. De mockups/afbeeldingen van dit systeem zijn [hier]() te vinden.
+
+---
+
+Ook heb ik tijdens dit project vaak genotuleerd voor de groep. Dit met als doel zodat wij gesprekken in een meeting met Mevrouw Itard, Meneer Schagen of andere projectleden niet zouden vergeten.
+* [Gesprek Jan Dirk 31-08](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/08-31%20Gesprek%20Jan-Dirk.pdf)
+* [Gesprek Jan Dirk 01-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-01%20Gesprek%20Jan-Dirk.pdf)
+* [Notulen maandag 11-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-11%20Notulen%20maandag.pdf)
+* [Opstellen vragen voor Arie Taal 14-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-14%20Vragen.pdf)
+* [Notulen Arie Taal 14-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-14%20Notulen%20Arie%20Taal.pdf)
+* [Notulen Laure Itard 04-10](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/10-04%20Notulen%20Laure%20Itard.pdf)
+* [Procesvoortgang met Jan Dirk 23-10](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/10-23%20Proces%20voortgang%20met%20JD.pdf)
