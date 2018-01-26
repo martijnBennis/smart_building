@@ -34,15 +34,15 @@ In deze map zijn alle bewijzen te vinden van de online courses van Coursera.
 
 ## 3. Python notebooks <a name="Python_notebooks"></a>
 In deze map zijn alle bewijzen te vinden van de Python notebooks die ik gemaakt heb.
-* 1\. Checking data edges
-* 2\. Identifying variables
-* 3\. Univariate Analysis
-* 4\. Bivariate Analysis
-* 5\. Missing Values
-* 6\. Outliers
-* 7\. Data Transformation
-* 8\. Creating Variables
-* 9\. Evaluate
+* 1\. [Checking data edges](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/1%2BChecking%2BData%2BEdges.md)
+* 2\. [Identifying variables](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/2%2BIdentifying%2Bvariables.md)
+* 3\. [Univariate Analysis](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/3%2BUnivariate%2BAnalysis/3%20Univariate%20Analysis.md)
+* 4\. [Bivariate Analysis](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/4%2BBivariate%2BAnalysis/4%20Bivariate%20Analysis.md)
+* 5\. [Missing Values](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/5%2BMissing%2BValues.md)
+* 6\. [Outliers](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/6%2BOutliers/6%20Outliers.md)
+* 7\. [Data Transformation](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/7%2BData%2BTransformation/7%20Data%20Transformation.md)
+* 8\. [Creating Variables](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/8%2BCreating%2BVariables.md)
+* 9\. [Evaluate](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/9%2BEvaluate.md)
 
 ---
 
