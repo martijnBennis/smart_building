@@ -13,7 +13,7 @@ In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de hal
 ---
 
 ## 1. DataCamp <a name="DataCamp"></a>
-In deze map zijn alle bewijzen te vinden van de online courses van DataCamp.
+In [deze map](https://github.com/martijnBennis/smart_building/tree/master/DataCamp) zijn alle bewijzen te vinden van de online courses van DataCamp.
 * [Bewijs DataCamp Week 1](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%201)
     * [Intro to Python for Data Science](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%201/Intro%20to%20Python%20for%20Data%20Science.png)
 * [Bewijs DataCamp Week 2](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%202)
@@ -35,7 +35,7 @@ In deze map zijn alle bewijzen te vinden van de online courses van DataCamp.
 ---
 
 ## 2. Coursera <a name="Coursera"></a>
-In deze map zijn alle bewijzen te vinden van de online courses van Coursera.
+In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Coursera) zijn alle bewijzen te vinden van de online courses van Coursera.
 * [Week 1](https://github.com/martijnBennis/smart_building/tree/master/Coursera/Week%201)
     * [Bewijs 1](https://github.com/martijnBennis/smart_building/blob/master/Coursera/Week%201/bewijs1.png)
     * [Bewijs 2](https://github.com/martijnBennis/smart_building/blob/master/Coursera/Week%201/bewijs2.png)
@@ -56,7 +56,7 @@ In deze map zijn alle bewijzen te vinden van de online courses van Coursera.
 ---
 
 ## 3. Python notebooks <a name="Python_notebooks"></a>
-In deze map zijn alle bewijzen te vinden van de Python notebooks die ik gemaakt heb.
+In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Python%20notebooks) zijn alle bewijzen te vinden van de Python notebooks die ik gemaakt heb.
 * 1\. [Checking data edges](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/1%2BChecking%2BData%2BEdges.md)
 * 2\. [Identifying variables](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/2%2BIdentifying%2Bvariables.md)
 * 3\. [Univariate Analysis](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/3%2BUnivariate%2BAnalysis/3%20Univariate%20Analysis.md)
@@ -70,7 +70,7 @@ In deze map zijn alle bewijzen te vinden van de Python notebooks die ik gemaakt 
 ---
 
 ## 4. Spark <a name="Spark"></a>
-In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
+In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Spark) zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
 
 * 1\. [Tutorials](https://github.com/martijnBennis/smart_building/tree/master/Spark/Tutorials)
   * 1\. [rdd-collection](https://github.com/martijnBennis/smart_building/blob/master/Spark/Tutorials/1-rdd-collection.md)
@@ -95,10 +95,10 @@ In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
 ---
 
 ## 5. Workshop opdrachten <a name="Workshop_opdrachten"></a>
-In deze map zijn alle resultaten te vinden van de workshop opdrachten.
+In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Workshop%20opdrachten) zijn alle resultaten te vinden van de workshop opdrachten.
 * [Calling bullshit](https://github.com/martijnBennis/smart_building/blob/master/Workshop%20opdrachten/martijn_bennis_14151871_Calling_bullshit.pdf)
 
 ---
 
 ## 6. Uitgevoerde taken binnen het project <a name="Uitgevoerde_taken_binnen_het_project"></a>
-Komt nog
+In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Opgeleverde%20producten)
