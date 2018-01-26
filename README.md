@@ -48,8 +48,12 @@ In deze map zijn alle bewijzen te vinden van de Python notebooks die ik gemaakt 
 
 ## 4. Spark <a name="Spark"></a>
 In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
-* 1\. Assignment 1
-* 2\. Assignment 2
+
+* 1\. Tutorials
+  * Week 1
+* 2\. Assignment 1
+* 3\. Assignment 2
+
 
 ---
 
