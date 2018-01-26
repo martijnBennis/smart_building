@@ -1,6 +1,6 @@
 # Portfolio Martijn Bennis
 
-In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de halfjaar durende minor Applied Data Science (KB74). In deze minor ben ik vooral bezig geweest met het analyseren en toepassen van 'Big data'. Hieronder is de structuur gegeven die zal leiden naar het kopje/subkopje waaronder alle opdrachten staan. Wanneer er op de links geklikt wordt zal deze u als lezer naar de desbetreffende pagina leiden.
+In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de halfjaar durende minor Applied Data Science (KB74). In deze minor ben ik vooral bezig geweest met het analyseren en toepassen van 'Big data'. Hieronder is de structuur gegeven die zal leiden naar het subkopje waaronder alle opdrachten staan. Wanneer er op de links geklikt wordt zal deze u als lezer naar de desbetreffende pagina leiden.
 
 ## Structuur
 * 1\. [DataCamp](#DataCamp)
@@ -101,4 +101,8 @@ In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Worksh
 ---
 
 ## 6. Uitgevoerde taken binnen het project <a name="Uitgevoerde_taken_binnen_het_project"></a>
-In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Opgeleverde%20producten)
+De projectgroep 'Smart Building' heeft [onderzoek]() gedaan naar het klimaatregelsysteem van De Haagse Hogeschool te Delft. Ik heb mij vooral bezig gehouden met het [opsporen](), [zichtbaar maken/visualizeren]() en ['automatiseren']() van de data uit de 'Rule Based System' groep. Het [opsporen van de anomalieën]() is gebeurd aan de hand van een analyse die eerder uit de SAW expert applicatie is gekomen (De SAW expert is niet meer werkend gekregen). Vervolgens ben ik aan de slag gegaan met het, [in tabellen zetten](), van de 'situaties-xml', zoals deze staan in het SAW expert programma. Doordat dit was gebeurd konden een projectlid en ik samen kijken naar de anomalieën en hier 'labels' aan hangen. Mede dankzij de tabellen kregen wij een meer helder beeld van wat er nou eigenlijk aan de hand was. 
+
+De anomalieën die wij hebben gevonden hebben wij in [dit bestand](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.pdf) gezet zodat er achterhaalt kon worden wanneer, hoelang een situatie gaande was en wat de oorzaak was. Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek]() is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
+
+Uiteindelijk ben ik verder gegaan met het opzetten van een dashboard, zodat er op een toegankelijkere manier naar het SAW expert programma gekeken kan worden. Het front-end deel hiervan is werkend gekregen en [hier]() is de map te vinden naar alle code. Helaas was het maken van een centrale API waar de drie systemen op zouden draaien een te grote opgave. Hierin hadden een ander projectlid en ik onzelf overschat en de opdracht onderschat. De mockups/afbeeldingen van dit systeem zijn [hier]() te vinden.
