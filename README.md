@@ -14,9 +14,12 @@ In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de hal
 
 ## 1. DataCamp <a name="DataCamp"></a>
 In deze map zijn alle bewijzen te vinden van de online courses van DataCamp.
-* Bewijs opdracht x
-* Bewijs opdracht x
-* Bewijs opdracht x
+* Bewijs DataCamp Week 1
+* Bewijs DataCamp Week 2
+* Bewijs DataCamp Week 3
+* Bewijs DataCamp Week 4
+* Bewijs DataCamp Week 5
+* Bewijs DataCamp Week 6
 
 ---
 
@@ -52,7 +55,7 @@ In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
 
 ## 5. Workshop opdrachten <a name="Workshop_opdrachten"></a>
 In deze map zijn alle resultaten te vinden van de workshop opdrachten.
-* 1. Calling bullshit
+* Calling bullshit
 
 ---
 
