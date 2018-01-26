@@ -16,8 +16,8 @@ In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de hal
 In deze map zijn alle bewijzen te vinden van de online courses van DataCamp.
 * [Bewijs DataCamp Week 1](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%201/Intro%20to%20Python%20for%20Data%20Science.png)
 * [Bewijs DataCamp Week 2](https://github.com/martijnBennis/smart_building/tree/master/DataCamp/Week%202)
- * [Importing Data in Python part 1](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Importing%20Data%20in%20Python%20(Part%201).png)
- * [Intermediate Python for Data Science](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Intermediate%20Python%20for%20Data%20Science.png)
+    * [Importing Data in Python part 1](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Importing%20Data%20in%20Python%20(Part%201).png)
+    * [Intermediate Python for Data Science](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Intermediate%20Python%20for%20Data%20Science.png)
  * [Introduction to Data Visualization with Python](https://github.com/martijnBennis/smart_building/blob/master/DataCamp/Week%202/Introduction%20to%20Data%20Visualization%20with%20Python.png)
 * [Bewijs DataCamp Week 3]()
 * [Bewijs DataCamp Week 4]()
