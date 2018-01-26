@@ -72,7 +72,7 @@ In deze map zijn alle bewijzen te vinden van de Python notebooks die ik gemaakt 
 ## 4. Spark <a name="Spark"></a>
 In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
 
-* 1\. Tutorials
+* 1\. [Tutorials](https://github.com/martijnBennis/smart_building/tree/master/Spark/Tutorials)
   * 1\. [rdd-collection](https://github.com/martijnBennis/smart_building/blob/master/Spark/Tutorials/1-rdd-collection.md)
   * 2\. [rdd-file](https://github.com/martijnBennis/smart_building/blob/master/Spark/Tutorials/2-rdd-file.md)
   * 3\. [Actions](https://github.com/martijnBennis/smart_building/blob/master/Spark/Tutorials/3-actions.md)
@@ -96,7 +96,7 @@ In deze map zijn alle bewijzen te vinden van de Spark die ik gemaakt heb.
 
 ## 5. Workshop opdrachten <a name="Workshop_opdrachten"></a>
 In deze map zijn alle resultaten te vinden van de workshop opdrachten.
-* Calling bullshit
+* [Calling bullshit](https://github.com/martijnBennis/smart_building/blob/master/Workshop%20opdrachten/martijn_bennis_14151871_Calling_bullshit.pdf)
 
 ---
 
