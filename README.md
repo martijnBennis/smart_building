@@ -1,6 +1,6 @@
 # Portfolio Martijn Bennis
 
-In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de halfjaar durende minor Applied Data Science (KB74). In deze minor ben ik vooral bezig geweest met het analyseren en toepassen van 'Big data'. Hieronder is de structuur gegeven die zal leiden naar het subkopje waaronder alle opdrachten staan. Wanneer er op de links geklikt wordt zal deze u als lezer naar de desbetreffende pagina leiden.
+In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de halfjaar durende minor Applied Data Science (KB74). In deze minor ben ik vooral bezig geweest met het analyseren en toepassen van 'Big data'. Hieronder is de structuur gegeven die zal leiden naar het subkopje waaronder alle opdrachten staan. Wanneer er op de links geklikt wordt zal deze u als lezer naar de desbetreffende pagina leiden. Ik heb de minor als uitdagend, maar leerzaam beschouwd. Ik vond het lastig om mijn draai te vinden binnen het onderzoek omdat ik gewend ben om een opdracht uit te voeren en dit hier helemaal niet het geval was. Tijdens deze minor werd er verwacht dat jij zelf de data verkrijgt en manipuleert tot het gewenste resultaat, zonder een hele duidelijke houvast te hebben. Naarmate het project langer duurde kwam ik steeds makkelijker in het gareel. Ik ben erachter gekomen dat ik Python erg had onderschad in zijn mogelijkheden. Van het 'plotten van grafieken' tot het uitlezen van database kolummen, het is allemaal mogelijk, maar ook erg toegankelijk. Daarnaast heb ik geleerd dat vertrouwen hebben in je mede projectleden essentieel is wanneer je in groepsverband een onderzoek uitvoert. Ik vond het voorheen lastig om dingen uit handen te geven omdat ik liever zelf de controle had, maar dat heb ik deze minor meer kunnen loslaten. Mede doordat er zoveel verschillende specialisten waren in de projectgroep. 
 
 ## Structuur
 * 1\. [DataCamp](#DataCamp)
@@ -101,4 +101,24 @@ In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Worksh
 ---
 
 ## 6. Uitgevoerde taken binnen het project <a name="Uitgevoerde_taken_binnen_het_project"></a>
-In [deze map](https://github.com/martijnBennis/smart_building/tree/master/Opgeleverde%20producten)
+De projectgroep 'Smart Building' heeft [onderzoek]() gedaan naar het klimaatregelsysteem van De Haagse Hogeschool te Delft. Ik heb mij vooral bezig gehouden met het [opsporen](), [zichtbaar maken/visualizeren]() en ['automatiseren']() van de data uit de 'Rule Based System' groep. Het [opsporen van de anomalieën]() is gebeurd aan de hand van een analyse die eerder uit de SAW expert applicatie is gekomen (De SAW expert is niet meer werkend gekregen). Vervolgens ben ik aan de slag gegaan met het, [in tabellen zetten](), van de 'situaties-xml', zoals deze staan in het SAW expert programma. Doordat dit was gebeurd konden een projectlid en ik samen kijken naar de anomalieën en hier 'labels' aan hangen. Mede dankzij de tabellen kregen wij een meer helder beeld van wat er nou eigenlijk aan de hand was. 
+
+De anomalieën die wij hebben gevonden hebben wij in [dit bestand](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.pdf) gezet zodat er achterhaalt kon worden wanneer, hoelang een situatie gaande was en wat de oorzaak was. Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek]() is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
+
+Uiteindelijk ben ik verder gegaan met het opzetten van een dashboard, zodat er op een toegankelijkere manier naar het SAW expert programma gekeken kan worden. Het front-end deel hiervan is werkend gekregen en [hier]() is de map te vinden naar alle code. Helaas was het maken van een centrale API waar de drie systemen op zouden draaien een te grote opgave. Hierin hadden een ander projectlid en ik onzelf overschat en de opdracht onderschat. De mockups/afbeeldingen van dit systeem zijn [hier]() te vinden.
+
+---
+
+Ook heb ik tijdens dit project vaak genotuleerd voor de groep. Dit met als doel zodat wij gesprekken in een meeting met Mevrouw Itard, Meneer Schagen of andere projectleden niet zouden vergeten.
+* [Gesprek Jan Dirk 31-08](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/08-31%20Gesprek%20Jan-Dirk.pdf)
+* [Gesprek Jan Dirk 01-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-01%20Gesprek%20Jan-Dirk.pdf)
+* [Notulen maandag 11-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-11%20Notulen%20maandag.pdf)
+* [Opstellen vragen voor Arie Taal 14-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-14%20Vragen.pdf)
+* [Notulen Arie Taal 14-09](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/09-14%20Notulen%20Arie%20Taal.pdf)
+* [Notulen Laure Itard 04-10](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/10-04%20Notulen%20Laure%20Itard.pdf)
+* [Procesvoortgang met Jan Dirk 23-10](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/Notulen/10-23%20Proces%20voortgang%20met%20JD.pdf)
+
+---
+
+Tot slot hebben wij met het gehele onderzoeksteam gezeten voor het [onderzoeksverslag]() en de [paper](). In deze documenten heb ik de conclusie, aanbeveling en de methoden en resultaten van Rule Based System gewerkt. 
+Daarnaast ben ik vooral bezig geweest met het nalezen en feedback geven op andere onderdelen van andere projectleden. Bij de paper heb ik naast het Rule Based gedeelte ook nog de abstract geschreven.  
