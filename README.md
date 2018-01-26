@@ -1,6 +1,6 @@
 # Portfolio Martijn Bennis
 
-In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de halfjaar durende minor Applied Data Science (KB74). In deze minor ben ik vooral bezig geweest met het analyseren en toepassen van 'Big data'. Hieronder is de structuur gegeven die zal leiden naar het subkopje waaronder alle opdrachten staan. Wanneer er op de links geklikt wordt zal deze u als lezer naar de desbetreffende pagina leiden.
+In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de halfjaar durende minor Applied Data Science (KB74). In deze minor ben ik vooral bezig geweest met het analyseren en toepassen van 'Big data'. Hieronder is de structuur gegeven die zal leiden naar het kopje/subkopje waaronder alle opdrachten staan. Wanneer er op de links geklikt wordt zal deze u als lezer naar de desbetreffende pagina leiden.
 
 ## Structuur
 * 1\. [DataCamp](#DataCamp)
