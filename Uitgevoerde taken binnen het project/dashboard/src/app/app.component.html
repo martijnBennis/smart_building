@@ -1,0 +1,47 @@
+<nav class="navIeks navbar navbar-default">
+    <div class="container">
+        <div class="row">
+
+
+            <div class="navbar-header">
+
+
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse">
+
+                <a routerLink="">
+                    <!--<img src="" alt="apc-logo">-->
+                </a>
+                <ul class="pages-menu">
+                    <li class="page-item">
+                        <a routerLink="/mainview" routerLinkActive="active">Real time Anomalies</a>
+                    </li>
+
+                    <li class="page-item">
+                        <a routerLink="/findAnomalies" routerLinkActive="active">Find anomalies</a>
+                    </li>
+
+                    <li class="page-item">
+                        <a routerLink="/about" routerLinkActive="active">About</a>
+                    </li>
+                </ul>
+                <ul class="pages-menu">
+                    <li class="page-item">
+                        <a routerLink="/accountSettings">Account settings</a>
+                    </li>
+                    <li class="page-item">
+                        <a routerLink="">Log-out</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<router-outlet></router-outlet>

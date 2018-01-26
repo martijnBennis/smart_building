@@ -1,0 +1,169 @@
+
+
+<div class="container-fluid no_margin_container">
+    <div class="row">
+        <!--<div class="col-md-3 no_margin_container clearfix" style="background-color: rgb(42,57,72);">-->
+                <!--<div class="sideNav">-->
+                    <!--<ul class="pages-menu">-->
+                        <!--<li class="navItem">-->
+
+                            <!--<a routerLink="/users" class="linkNav" routerLinkActive="active">Users</a>-->
+                        <!--</li>-->
+
+                        <!--<li class="navItem">-->
+                            <!--<a routerLink="/chat" class="linkNav" routerLinkActive="active">Chat</a>-->
+                        <!--</li>-->
+
+                        <!--<li class="navItem">-->
+                            <!--<a routerLink="/documents" class="linkNav" routerLinkActive="active">Documents</a>-->
+                        <!--</li>-->
+                    <!--</ul>-->
+                <!--</div>-->
+        <!--</div>-->
+
+        <!--<div class="col-md-9 no_margin_container clearfix containerGraph">-->
+        <div class="col-md-12 no_margin_container clearfix containerGraph">
+
+            <div class="mainContainer clearfix">
+                <ul class="nav nav-tabs">
+                    <div class="col-lg-3 col-lg-offset-2 col-md-4 col-sm-4">
+                        <div class="rbs" data-toggle="tab" href="#sectionA">
+                            <li><a>Rule Based System</a></li>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-4">
+                        <div class="bbn" data-toggle="tab" href="#sectionB">
+                            <li><a>Bayesian Belief Network</a></li>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-4">
+                        <div class="dl" data-toggle="tab" href="#sectionC">
+                            <li><a>Deep Learning</a></li>
+                        </div>
+                    </div>
+                </ul>
+                    <div class="tab-content">
+                        <div id="sectionA" class="tab-pane fade">
+
+                        <div class="col-md-6">
+                            <div style="display: block;">
+                                <canvas baseChart width="400" height="400"
+                                        [datasets]="lineChartData"
+                                        [labels]="lineChartLabels"
+                                        [options]="lineChartOptions"
+                                        [colors]="lineChartColors"
+                                        [legend]="lineChartLegend"
+                                        [chartType]="lineChartType"
+                                        (chartHover)="chartHovered($event)"
+                                        (chartClick)="chartClicked($event)">
+
+                                </canvas>
+                            </div>
+                        </div>
+                        <div class="col-md-6" style="margin-bottom: 10px">
+                            <table class="table table-responsive table-condensed">
+                                <tr>
+                                    <th *ngFor="let label of lineChartLabels">{{label}}</th>
+                                </tr>
+                                <tr *ngFor="let d of lineChartData">
+                                    <td *ngFor="let label of lineChartLabels; let j=index">{{d && d.data[j]}}</td>
+                                </tr>
+                            </table>
+
+                            <div class="foundAnomalies" (click)="randomize()">
+                                <h3>Gevonden detecties</h3>
+                                <p>CO2 sensor kapot</p>
+                                <p>CO2 sensor kapot</p>
+                                <p>CO2 sensor kapot</p>
+                                <p>CO2 sensor kapot</p>
+                            </div>
+                            <!--<button (click)="randomize()">Randomize</button>-->
+
+                        </div>
+                    </div>
+                        <div id="sectionB" class="tab-pane fade">
+                            <div class="col-md-6">
+                                <div style="display: block;">
+                                    <canvas baseChart width="400" height="400"
+                                            [datasets]="lineChartData"
+                                            [labels]="lineChartLabels"
+                                            [options]="lineChartOptions"
+                                            [colors]="lineChartColors"
+                                            [legend]="lineChartLegend"
+                                            [chartType]="lineChartType"
+                                            (chartHover)="chartHovered($event)"
+                                            (chartClick)="chartClicked($event)">
+
+                                    </canvas>
+                                </div>
+                            </div>
+                            <div class="col-md-6" style="margin-bottom: 10px">
+                                <table class="table table-responsive table-condensed">
+                                    <tr>
+                                        <th *ngFor="let label of lineChartLabels">{{label}}</th>
+                                    </tr>
+                                    <tr *ngFor="let d of lineChartData">
+                                        <td *ngFor="let label of lineChartLabels; let j=index">{{d && d.data[j]}}</td>
+                                    </tr>
+                                </table>
+
+                                <div class="foundAnomalies">
+                                    <h3>Gevonden detecties</h3>
+                                    <p>CO2 sensor kapot</p>
+                                    <p>CO2 sensor kapot</p>
+                                    <p>CO2 sensor kapot</p>
+                                    <p>CO2 sensor kapot</p>
+                                </div>
+                                <!--<button (click)="randomize()">Randomize</button>-->
+
+                            </div>
+
+
+                    </div>
+                        <div id="sectionC" class="tab-pane fade">
+
+
+                            <div class="col-md-6">
+                                <div style="display: block;">
+                                    <canvas baseChart width="400" height="400"
+                                            [datasets]="lineChartData"
+                                            [labels]="lineChartLabels"
+                                            [options]="lineChartOptions"
+                                            [colors]="lineChartColors"
+                                            [legend]="lineChartLegend"
+                                            [chartType]="lineChartType"
+                                            (chartHover)="chartHovered($event)"
+                                            (chartClick)="chartClicked($event)">
+
+                                    </canvas>
+                                </div>
+                            </div>
+                            <div class="col-md-6" style="margin-bottom: 10px">
+                                <table class="table table-responsive table-condensed">
+                                    <tr>
+                                        <th *ngFor="let label of lineChartLabels">{{label}}</th>
+                                    </tr>
+                                    <tr *ngFor="let d of lineChartData">
+                                        <td *ngFor="let label of lineChartLabels; let j=index">{{d && d.data[j]}}</td>
+                                    </tr>
+                                </table>
+                                <div class="foundAnomalies">
+                                    <h3>Gevonden detecties</h3>
+                                    <p>CO2 sensor kapot</p>
+                                    <p>CO2 sensor kapot</p>
+                                    <p>CO2 sensor kapot</p>
+                                    <p>CO2 sensor kapot</p>
+                                </div>
+                                <!--<button (click)="randomize()">Randomize</button>-->
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

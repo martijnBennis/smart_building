@@ -1,0 +1,41 @@
+.containerSettings{
+    margin-top: 25px;
+}
+
+.containerSettings img{
+    border-radius: 100%;
+    float: right;
+}
+
+@media (max-width: 992px){
+    .containerSettings img{
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+
+}
+
+span{
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+h3{
+    color: rgb(230,77,67);
+}
+
+.savePass{
+    margin-top: 15px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: rgb(59,153,216);
+    border: 3px solid rgb(59,153,216);
+    color: #fff;
+}
+
+.savePass:hover{
+    border: 3px solid #286995;
+}

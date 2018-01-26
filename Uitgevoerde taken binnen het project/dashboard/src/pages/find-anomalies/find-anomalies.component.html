@@ -1,0 +1,94 @@
+<div class="container-fluid no_margin_container">
+  <div class="row">
+    <!--<div class="col-md-3 no_margin_container clearfix" style="background-color: rgb(42,57,72);">-->
+      <!--<div class="sideNav">-->
+        <!--<ul class="pages-menu">-->
+          <!--<li class="navItem">-->
+
+            <!--<a routerLink="/users" class="linkNav" routerLinkActive="active">Users</a>-->
+          <!--</li>-->
+
+          <!--<li class="navItem">-->
+            <!--<a routerLink="/chat" class="linkNav" routerLinkActive="active">Chat</a>-->
+          <!--</li>-->
+
+          <!--<li class="navItem">-->
+            <!--<a routerLink="/documents" class="linkNav" routerLinkActive="active">Documents</a>-->
+          <!--</li>-->
+        <!--</ul>-->
+      <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="col-md-9 containerGraph">-->
+    <div class="col-md-12 containerGraph">
+      <div class="mainContainer clearfix">
+
+        <div class="selectGraph">
+          <div class="row">
+            <div class="col-md-3">
+              <label>Startdatum
+                <input type="text"/>
+              </label>
+            </div>
+            <div class="col-md-3">
+          <label>
+            Einddatum
+            <input type="text"/>
+          </label>
+            </div>
+            <div class="col-md-3">
+            <label>
+              Lokaal
+              <input type="text"/>
+            </label>
+            </div>
+          <div class="col-md-3">
+            <label>Select your system
+          <select>
+            <option>Rule Based System</option>
+            <option>Bayesian Belief Network</option>
+            <option>Deep Learning</option>
+          </select>
+            </label>
+          </div>
+          <div class="col-md-12">
+
+          <button type="button" class="buttonGenerateGraph" (click)="generateGraph()">Find!</button>
+          </div>
+          </div>
+
+        </div>
+        <div class="graphContainer" [hidden]="findGraphs">
+          <div class="col-md-6">
+            <canvas baseChart width="400" height="400"
+                    [datasets]="lineChartData"
+                    [labels]="lineChartLabels"
+                    [options]="lineChartOptions"
+                    [colors]="lineChartColors"
+                    [legend]="lineChartLegend"
+                    [chartType]="lineChartType"
+                    (chartHover)="chartHovered($event)"
+                    (chartClick)="chartClicked($event)">
+
+            </canvas>
+          </div>
+          <div class="col-md-6">
+            <div class="foundAnomalies" (click)="randomize()">
+              <h3>Gevonden detecties</h3>
+              <p>CO2 sensor kapot</p>
+              <p>CO2 sensor kapot</p>
+              <p>CO2 sensor kapot</p>
+              <p>CO2 sensor kapot</p>
+            </div>
+            <!--<button (click)="randomize()">Randomize</button>-->
+          </div>
+        </div>
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
