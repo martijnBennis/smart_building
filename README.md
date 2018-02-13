@@ -105,7 +105,7 @@ De projectgroep 'Smart Building' heeft [onderzoek](https://github.com/martijnBen
 6.1 Tijdens dit onderzoek hebben wij gekeken naar verschillende tools om data te visualiseren. Deze tools zijn: Power BI, Kibana, Qlikview, Orange, Excel, Klipfolio, Building EQ, SAW(Expert) en SAW(GeNie). Ik heb mij bezig gehouden met Klipfolio. Dit is een van origine een tool die voornamelijk gebruikt wordt in de marketing, omdat je middels de tool op een relatief gemakkelijke manier je doelgroep in kaart kan brengen. Ik wist dat Klipfolio goed en snel data kon visualiseren vandaar dat ik voor deze tool heb gekozen. Echter maakte de hoeveelheid data het snel onmogelijk om een grafiek uit het systeem te krijgen en daarom was Klipfolio niet de geschikte oplossing. Er waren andere tools die op een gemakkelijkere wijze meer data sneller konden verkrijgen en verwerken.
 Daarnaast waren er onvoldoende tools beschikbaar die noodzakelijk zijn in het Data Science vakgebied.
 
-![Figure_1-5](Images/error_klipfolio.png)
+![Figure_1-5](images/error_klipfolio.png)
 
 
 
