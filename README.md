@@ -9,6 +9,7 @@ In dit portfolio zijn alle activiteiten te zien die ik heb gedaan tijdens de hal
 * 4\. [Spark](#Spark)
 * 5\. [Workshop opdrachten](#Workshop_opdrachten)
 * 6\. [Uitgevoerde taken binnen het project](#Uitgevoerde_taken_binnen_het_project)
+* 7\. [Urenverantwoording](#Urenverantwoording)
 
 ---
 
@@ -146,7 +147,7 @@ Daarnaast ben ik vooral bezig geweest met het nalezen en feedback geven op ander
 
 ---
 
-## 7. Urenverantwoording
+## 7. Urenverantwoording <a name="Urenverantwoording"></a>
 In dit hoofdstuk zijn mijn scrum-taken, 20 weken schema en de taken van de paper weergegeven om een goed beeld te schetsen waar ik de afgelopen 20 weken mee bezig ben geweest.
 
 ![Urenverantwoording](images/weekschema1.png)
