@@ -115,7 +115,7 @@ Daarnaast waren er onvoldoende tools beschikbaar die noodzakelijk zijn in het Da
 * De anomalieën die wij hebben gevonden hebben wij in [dit bestand](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.pdf) [(Mooiere t.o.v. PDF)](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.xlsx) 
 gezet zodat er achterhaalt kon worden wanneer, hoelang een situatie gaande was en wat de oorzaak was. 
 
-![figure results RBS](images/Gekleurde_resultaten.png)
+![figure results RBS](images/Gekleurde resultaten.png)
 
 Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/image20.png) is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
 
