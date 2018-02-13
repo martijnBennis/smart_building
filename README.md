@@ -148,3 +148,14 @@ Daarnaast ben ik vooral bezig geweest met het nalezen en feedback geven op ander
 
 ## 7. Urenverantwoording
 In dit hoofdstuk zijn mijn scrum-taken, 20 weken schema en de taken van de paper weergegeven om een goed beeld te schetsen waar ik de afgelopen 20 weken mee bezig ben geweest.
+
+![Urenverantwoording](images/weekschema1.png)
+![Urenverantwoording](images/weekschema2.png)
+![Urenverantwoording](images/weekschema3.png)
+![Urenverantwoording](images/weekschema4.png)
+![Urenverantwoording](images/weekschema5.png)
+![Urenverantwoording](images/weekschema6.png)
+
+![Urenverantwoording](images/Onderzoeksverslag.png)
+![Urenverantwoording](images/Paper.png)
+
