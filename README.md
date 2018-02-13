@@ -115,7 +115,7 @@ gezet zodat er achterhaalt kon worden wanneer, hoelang een situatie gaande was e
 
 ![figure results RBS](images/Gekleurde_resultaten.png)
 
-Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/image20.png) is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
+* Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/image20.png) is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
 
 ![figure co2 and airflow](images/figure_co2_airflow.png)
 
