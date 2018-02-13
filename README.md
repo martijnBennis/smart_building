@@ -109,11 +109,22 @@ Daarnaast waren er onvoldoende tools beschikbaar die noodzakelijk zijn in het Da
 
 * Ik heb mij vooral bezig gehouden met het [opsporen](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/overzicht_anomalien_saw_expert.pdf), [zichtbaar maken](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.pdf)[(Mooiere t.o.v. PDF)](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.xlsx)/[visualizeren](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/image20.png) en ['automatiseren'](https://github.com/martijnBennis/smart_building/tree/master/Uitgevoerde%20taken%20binnen%20het%20project/dashboard) van de data uit de 'Rule Based System' groep. Het [opsporen van de anomalieën](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/overzicht_anomal) is gebeurd aan de hand van een analyse die eerder uit de SAW expert applicatie is gekomen (De SAW expert is niet meer werkend gekregen). Vervolgens ben ik aan de slag gegaan met het, [in tabellen zetten](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/Saw%20expert%20.pdf), van de 'situaties-xml', zoals deze staan in het SAW expert programma. Doordat dit was gebeurd konden een projectlid en ik samen kijken naar de anomalieën en hier 'labels' aan hangen. Mede dankzij de tabellen kregen wij een meer helder beeld van wat er nou eigenlijk aan de hand was. 
 
-* De anomalieën die wij hebben gevonden hebben wij in [dit bestand](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.pdf) [(Mooiere t.o.v. PDF)](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.xlsx) gezet zodat er achterhaalt kon worden wanneer, hoelang een situatie gaande was en wat de oorzaak was. Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/image20.png) is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
+![figure Situaties XML](images/Situaties_XML.png)
+
+
+* De anomalieën die wij hebben gevonden hebben wij in [dit bestand](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.pdf) [(Mooiere t.o.v. PDF)](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/SAW%20Expert%20anomalie%C3%ABn.xlsx) 
+gezet zodat er achterhaalt kon worden wanneer, hoelang een situatie gaande was en wat de oorzaak was. 
+
+![figure results RBS](images/Gekleurde_resultaten.png)
+
+Vervolgens konden wij deze situaties achterhalen en visualizeren middels Python. In deze [grafiek](https://github.com/martijnBennis/smart_building/blob/master/Uitgevoerde%20taken%20binnen%20het%20project/RBS/image20.png) is er te zien dat gedurende deze periode de airflow en de CO2 relatief een zelfde patroon vertonen, tot op een gegeven moment de airflow door blijft gaan, maar de CO2 een rechte lijn vertoont. Het is duidelijk dat hier iets aan de hand is en dat waarschijnlijk de CO2 sensor kapot is.
 
 ![figure co2 and airflow](images/figure_co2_airflow.png)
 
 * Uiteindelijk ben ik verder gegaan samen Arjan met het opzetten van een dashboard, zodat er op een toegankelijkere manier naar het SAW expert programma gekeken kan worden. Het front-end deel hiervan is werkend gekregen en [hier](https://github.com/martijnBennis/smart_building/tree/master/Uitgevoerde%20taken%20binnen%20het%20project/dashboard) is de map te vinden naar alle code. Helaas was het maken van een centrale API waar de drie systemen op zouden draaien een te grote opgave. Hierin hadden een ander projectlid en ik onzelf overschat en de opdracht onderschat. De mockups/afbeeldingen van dit systeem zijn [hier](https://github.com/martijnBennis/smart_building/tree/master/Uitgevoerde%20taken%20binnen%20het%20project/dashboard/Mockups%20dashboard) te vinden.
+
+![figure results RBS](images/mockupDashboard1.png)
+![figure results RBS](images/mockupDashboard2.png)
 
 ---
 
